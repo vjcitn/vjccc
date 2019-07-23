@@ -1,0 +1,16 @@
+Package: vjccc
+Title: CSAMA 2019 clustering/classification talk
+Description: Provide materials for CSAMA 2019 clustering/classification talk.
+Version: 0.0.0
+Author: Vince Carey
+Suggests: knitr, BiocStyle, threejs
+Depends: R (>= 3.6.0), SummarizedExperiment
+Imports: RcppRoll
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: Artistic-2.0
+LazyLoad: yes
+LazyData: yes
+biocViews: Infrastructure
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
+Encoding: UTF-8
